@@ -61,7 +61,7 @@ Diese Dateien stammen aus der **COLMAP** Ordnerstruktur aus Agisoft Metashape (v
 
 1. [colab.research.google.com](https://colab.research.google.com) öffnen
 2. `Datei` → `Notebook hochladen` → `gs_evaluation.ipynb` auswählen
-3. `Laufzeit` → `Laufzeittyp ändern` → **T4 GPU** aktivieren
+3. `Laufzeit` → `Laufzeittyp ändern` → **CPU** aktivieren
 4. Zellen der Reihe nach ausführen (`Shift+Enter`)
 
 > **Wichtig:** Beim verbinden des (google)Drives wird eine Anmeldung bei Google erforderlich. Anschliessend werden die Ordner verfügbar sein.
